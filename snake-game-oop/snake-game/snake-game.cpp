@@ -1,5 +1,10 @@
-// snake-game.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// snake-game.oop : This file contains the 'main' function. Program execution begins and ends there.
+
+// Matthew Brennan - B00805477
+// References:
+// https://www.youtube.com/channel/UCqXrJmvJAvFnGyLGSBnk45g - used multiple sources from this youtube channel
+// https://codereview.stackexchange.com/questions/66481/snake-game-in-c
+// 
 
 #include "Cell.h"
 #include "Snake.h"
